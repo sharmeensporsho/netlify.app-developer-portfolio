@@ -1,0 +1,28 @@
+.contact-form-container{
+    position: relative;
+   }
+   .contact-form-container input{
+       border: solid 1.1px #248AAA;
+       border-radius: 5px;
+       width: 320px;
+       min-height: 40px;
+       padding-left: 8px;
+   }
+   .contact-form-container textarea{
+       border: solid 1.1px #248AAA;
+       border-radius: 5px;
+       width: 320px;
+       min-height: 40px;
+       padding-left: 8px;
+       height: 200px;
+       font-size: large;
+   
+   }
+   .contact-form-container button{
+       background-color: #248AAA;
+       color: white;
+       border: none;
+       height: 38px;
+       width: 100px;
+       cursor: pointer;
+   }
